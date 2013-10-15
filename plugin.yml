@@ -1,0 +1,8 @@
+name: VanishCitizensInterop
+author: Schmoller
+
+version: 1.0
+
+main: au.com.mineauz.vci.InteropPlugin
+
+depend: [Citizens, VanishNoPacket]
