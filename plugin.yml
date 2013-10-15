@@ -1,7 +1,7 @@
 name: VanishCitizensInterop
 author: Schmoller
 
-version: 1.0
+version: ${project.version}
 
 main: au.com.mineauz.vci.InteropPlugin
 
